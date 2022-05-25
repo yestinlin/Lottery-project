@@ -4,7 +4,7 @@ const { abi, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
 
-    'coach oxygen setup adult curtain hold bring index crater best merit marble', 
+    '🔑 ', 
     'https://rinkeby.infura.io/v3/81724c4b3c964bb485da3f4068131d6f'
 );
 
